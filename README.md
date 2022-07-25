@@ -13,6 +13,15 @@ Experienced in creating iOS applications. A quick learner and great team player 
 ### Software I use
 <img title="Xcode" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png">  <img title="VSCode" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">  <img title="Postman" height="30" width="30" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">  <img title="Figma" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">  
 
+
+### My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aldo10012&show_icons=true&theme=dark) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aldo10012&theme=dark)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aldo10012&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <!--
 <img title="" height="30" width="30" src="">
 -->
