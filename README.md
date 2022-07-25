@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋 My name is Alberto Dominguez
+
+Experienced in creating iOS applications. A quick learner and great team player with good communication skills. Passionate about creating apps that solve real world problems. 
+
+### iOS Skills
+<img title="Swift" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png"> <img title="Swift UI" height="30" width="30" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png">  <img title="Core Data" height="30" width="30" src="https://miro.medium.com/max/500/1*0LMcROr2BAIo1Cz7HgZhmw.png">  <img title="Realm" height="30" width="30" src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4">  <img title="Firebase" height="30" width="30" src="https://www.gstatic.com/devrel-devsite/prod/vdb149cdc08c87ab249cdebfec6395e8f073056d752ca9c2d285d3b8426fcfa32/firebase/images/touchicon-180.png">  <img title="Widget Kit" height="30" width="30" src="https://raw.githubusercontent.com/fasky-software/flutter_widgetkit/master/git_assets/widgetkit.png">  <img title="Health Kit" height="30" width="30" src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-96x96_2x.png">  <img title="Sprite Kit" height="30" width="30" src="https://hackernoon.com/hn-images/1*s2f6Vj9hmiP7d_3pomBFmA@2x.png">  
+
+
+<!--
+<img title="" height="30" width="30" src="">
+-->
 
 <!--
 **Aldo10012/Aldo10012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
